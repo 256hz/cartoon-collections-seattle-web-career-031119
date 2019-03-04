@@ -14,7 +14,7 @@ def long_planeteer_calls(elements)
   end
 end
 
-ingredients = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
+#ingredients = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
 
 def find_the_cheese(ingredients)
   cheese_types = ["cheddar", "gouda", "camembert"]
@@ -28,4 +28,4 @@ def find_the_cheese(ingredients)
   nil
 end
 
-find_the_cheese(ingredients)
+#find_the_cheese(ingredients)
